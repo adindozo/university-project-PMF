@@ -1,0 +1,115 @@
+.tabela td{
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.naslov{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.crveno{
+    background-color: rgb(255, 121, 121);
+}
+
+.bijelo{
+    background-color: white;
+}
+
+.plavo{
+    background-color: rgb(124, 124, 255);
+}
+
+.zeleno{
+    background-color: rgb(118, 255, 118);
+}
+
+.ljubicasto{
+    background-color: rgb(255, 113, 255);
+}
+
+.nebo{
+    background-color: skyblue        ;
+}
+.crvenon{
+    background-color: rgb(255, 121, 121);
+}
+
+.bijelon{
+    background-color: white;
+}
+
+.plavon{
+    background-color: rgb(124, 124, 255);
+}
+
+.zelenon{
+    background-color: rgb(118, 255, 118);
+}
+
+.ljubicaston{
+    background-color: rgb(255, 113, 255);
+}
+
+.nebon{
+    background-color: skyblue        ;
+}
+
+.crvenon:hover{
+    border: 2px solid black;
+}
+
+.bijelon:hover{
+    border: 2px solid black;
+}
+
+.plavon:hover{
+    border: 2px solid black;
+}
+
+.zelenon:hover{
+    border: 2px solid black;
+}
+
+.ljubicaston:hover{
+    border: 2px solid black;
+}
+
+.nebon:hover{
+    border: 2px solid black;
+}
+
+.sakriven{
+    display: none;
+}
+
+.hid{
+    display: none;
+}
+
+.pop{
+    position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+#pobeda{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#tabelaZaKlikanje{
+    margin-bottom: 10%;
+}
+
+#poraz{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
